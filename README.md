@@ -6,7 +6,7 @@
 [![Documentation](https://img.shields.io/badge/documentation-view-violet)](https://github.com/theranjitraut/abr-cds/blob/main/README.md)
 [![Discussions](https://img.shields.io/badge/discussions-view-yellow)](https://github.com/orgs/theranjitraut/abr-cds/discussions)
 # ABR Counterfeit Detection System
-![ABR Counterfeit Detection System](https://github.com/theranjitraut/abr-cds/blob/main/pixels/abr-cds-bg.ppg)
+![ABR Counterfeit Detection System](https://github.com/theranjitraut/abr-cds/blob/main/pixels/abr-cds-bg.png)
 ABR-CDS `ABR Counterfeit Detection System` is a counterfeit currency detection system for Nepali currencies. It addresses the proliferation of counterfeit currency that poses a significant threat to financial systems and public trust. This system aims to discern between genuine and forged banknotes, ensuring the integrity of monetary transactions.
 
 ## Table of Contents
