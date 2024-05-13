@@ -2,7 +2,7 @@
 [![Contribution](https://img.shields.io/badge/contribute-welcome-green)](https://github.com/theranjitraut/abr-cds/blob/main/CONTRIBUTING.md)
 [![Code of Conduct](https://img.shields.io/badge/code%20of%20conduct-view-white)](https://github.com/theranjitraut/abr-cds/blob/main/CODE_OF_CONDUCT.md)
 [![License](https://img.shields.io/badge/license-mit-red)](https://github.com/theranjitraut/abr-cds/blob/main/LICENSE)
-[![Versions](https://img.shields.io/badge/versions-1.7.0-orange)](https://github.com/theranjitraut/abr-cds/tags)
+[![Versions](https://img.shields.io/badge/versions-1.4.0-orange)](https://github.com/theranjitraut/abr-cds/tags)
 [![Documentation](https://img.shields.io/badge/documentation-view-violet)](https://github.com/theranjitraut/abr-cds/blob/main/README.md)
 [![Discussions](https://img.shields.io/badge/discussions-view-yellow)](https://github.com/orgs/theranjitraut/abr-cds/discussions)
 # ABR Counterfeit Detection System
