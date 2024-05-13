@@ -12,7 +12,7 @@ ABR-CDS `ABR Counterfeit Detection System` is a counterfeit currency detection s
 ## Table of Contents
 
 - [Objectives](#objectives)
-- [Programming Language](#programming-language)
+- [Features](#features)
 - [Modules/Libraries](#moduleslibraries)
 - [Screenshots](#screenshots)
 - [Resources](#resources)
@@ -25,11 +25,8 @@ Following are the objectives of ABR Counterfeit Detection System.
 - The system should be accurate and be able to give the results in a short time. 
 - The system should have a simple interface to make it convenient to use.
 
-## Programming Language:
-ABR Counterfeit Detection System is developed using [`python`](https://www.python.org). It uses `OpenCV` as the prominent library for computer vision.
-
-## Modules/Libraries
-ABR Counterfeit Detection System is built using the following 'python' modules/libraries.
+## Features
+ABR Counterfeit Detection System is developed using [`python`](https://www.python.org). It is built using the following 'python' modules/libraries.
 1. [opencv](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
 2. skimage
 3. pandas
@@ -43,9 +40,8 @@ ABR Counterfeit Detection System is built using the following 'python' modules/l
 11. [Packaging in python:](https://packaging.python.org/en/latest/overview/) [PyInstaller](https://pyinstaller.org/en/stable/), [py2exe](https://www.py2exe.org/), [py2app](https://py2app.readthedocs.io/en/latest/), and [cx_Freeze](https://cx-freeze.readthedocs.io/en/stable/)
 
 ## Screenshots
-`ABR-CDS`
+`ABR Counterfeit Detection System`
 ![ABR-CDS v1.4.0](https://github.com/theranjitraut/abr-cds/blob/main/pixels/abr-cds-ui.png)
-
 
 ## Resources
 1. Python tutorial - https://docs.python.org/3/tutorial/index.html
