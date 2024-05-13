@@ -1,0 +1,11 @@
+pip install opencv-contrib-python
+pip install ipython
+pip install pillow
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install skimage
+pip install pickledb
+
+How to run notebook?
+Go to project_controller.ipynb and run individual cell
