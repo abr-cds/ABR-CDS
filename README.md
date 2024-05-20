@@ -13,11 +13,11 @@ ABR-CDS "`ABR Counterfeit Detection System`" is a counterfeit currency detection
 
 - [Objectives](#objectives)
 - [Features](#features)
-- [Algorithm](#algorithm)
+- [Algorithms](#algorithms)
 - [Screenshots](#screenshots)
-- [Resources](#resources)
 - [Project Timeline](#project-timeline)
 - [Outcome](#outcome)
+- [Resources](#resources)
 
 ## Objectives
 Following are the objectives of the ABR Counterfeit Detection System.
@@ -39,13 +39,19 @@ ABR Counterfeit Detection System is developed using [`python`](https://www.pytho
 10. [pillow](https://pillow.readthedocs.io/en/stable/)
 11. [Packaging in python:](https://packaging.python.org/en/latest/overview/) [PyInstaller](https://pyinstaller.org/en/stable/), [py2exe](https://www.py2exe.org/), [py2app](https://py2app.readthedocs.io/en/latest/), [cx_Freeze](https://cx-freeze.readthedocs.io/en/stable/)
 
-## Algorithm
+## Algorithms
 These algorithms are tested while making this system.
 ![Algorithm](https://github.com/theranjitraut/abr-cds/blob/main/pixels/algorithm.jpg)
 
 ## Screenshots
 `ABR Counterfeit Detection System`
 ![ABR-CDS v1.4.0](https://github.com/theranjitraut/abr-cds/blob/main/pixels/abr-cds-ui.png)
+
+## Project Timeline
+![Project Timeline](https://github.com/theranjitraut/abr-cds/blob/main/pixels/project-timeline-ui.jpg)
+
+## Outcome
+ABR Counterfeit Detection System aims to help common people use computer vision for fake currency detection. Through the development, this counterfeit detection tries to confirm the authenticity or counterfeit status of the detected banknotes. This contributes to maintaining trust in the monetary system, safeguarding economies, and protecting citizens from financial losses. ABR Counterfeit Detection System holds the potential to impact the counterfeit detection landscape significantly and could greatly benefit from continuous user feedback and collaborative contributions. To make GUI using Python, there are various other libraries like [tkinter.ttk](https://docs.python.org/3/library/tkinter.ttk.html), [ttkbootstrap](https://ttkbootstrap.readthedocs.io/en/latest/), [PyQT](https://wiki.python.org/moin/PyQt), [PySide](https://wiki.python.org/moin/PySide), [wxPython](https://wxpython.org/index.html), etc.
 
 ## Resources
 1. OpenCV Documentation - https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html
@@ -57,9 +63,3 @@ These algorithms are tested while making this system.
 7. Numpy Documentation - https://numpy.org/doc/stable
 8. Matplotlib Documentation - https://matplotlib.org/stable/tutorials/index
 9. Ipython Documentation - https://ipython.org/documentation.html
-
-## Project Timeline
-![Project Timeline](https://github.com/theranjitraut/abr-cds/blob/main/pixels/project-timeline-ui.jpg)
-
-## Outcome
-ABR Counterfeit Detection System aims to help common people use computer vision for fake currency detection. Through the development, this counterfeit detection tries to confirm the authenticity or counterfeit status of the detected banknotes. This contributes to maintaining trust in the monetary system, safeguarding economies, and protecting citizens from financial losses. ABR Counterfeit Detection System holds the potential to impact the counterfeit detection landscape significantly and could greatly benefit from continuous user feedback and collaborative contributions. To make GUI using python, there are various other libraries like [tkinter.ttk](https://docs.python.org/3/library/tkinter.ttk.html), [ttkbootstrap](https://ttkbootstrap.readthedocs.io/en/latest/), [PyQT](https://wiki.python.org/moin/PyQt), [PySide](https://wiki.python.org/moin/PySide), [wxPython](https://wxpython.org/index.html), etc.
