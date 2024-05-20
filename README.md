@@ -13,6 +13,7 @@ ABR-CDS "`ABR Counterfeit Detection System`" is a counterfeit currency detection
 
 - [Objectives](#objectives)
 - [Features](#features)
+- [Algorithm](#algorithm)
 - [Screenshots](#screenshots)
 - [Resources](#resources)
 - [Project Timeline](#project-timeline)
@@ -37,6 +38,10 @@ ABR Counterfeit Detection System is developed using [`python`](https://www.pytho
 9. [customtkinter](https://customtkinter.tomschimansky.com/)
 10. [pillow](https://pillow.readthedocs.io/en/stable/)
 11. [Packaging in python:](https://packaging.python.org/en/latest/overview/) [PyInstaller](https://pyinstaller.org/en/stable/), [py2exe](https://www.py2exe.org/), [py2app](https://py2app.readthedocs.io/en/latest/), [cx_Freeze](https://cx-freeze.readthedocs.io/en/stable/)
+
+## Algorithm
+These algorithms are tested while making this system.
+![Algorithm](https://github.com/theranjitraut/abr-cds/blob/main/pixels/algorithm.jpg)
 
 ## Screenshots
 `ABR Counterfeit Detection System`
