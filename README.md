@@ -13,7 +13,6 @@ ABR-CDS "`ABR Counterfeit Detection System`" is a counterfeit currency detection
 
 - [Objectives](#objectives)
 - [Features](#features)
-- [Modules/Libraries](#moduleslibraries)
 - [Screenshots](#screenshots)
 - [Resources](#resources)
 - [Project Timeline](#project-timeline)
