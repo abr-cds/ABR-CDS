@@ -33,7 +33,7 @@ ABR Counterfeit Detection System is developed using [`python`](https://www.pytho
 4. numpy
 5. matplotlib
 6. ipython
-7. pickledb
+7. ipykernel
 8. [tkinter](https://docs.python.org/3/library/tk.html)
 9. [customtkinter](https://customtkinter.tomschimansky.com/)
 10. [pillow](https://pillow.readthedocs.io/en/stable/)
