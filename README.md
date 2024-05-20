@@ -20,7 +20,7 @@ ABR-CDS "`ABR Counterfeit Detection System`" is a counterfeit currency detection
 - [Outcome](#outcome)
 
 ## Objectives
-Following are the objectives of ABR Counterfeit Detection System.
+Following are the objectives of the ABR Counterfeit Detection System.
 - The system should detect counterfeit Nepali currency notes by using image processing and computer vision techniques.
 - The system should be accurate and be able to give the results in a short time. 
 - The system should have a simple interface to make it convenient to use.
@@ -28,12 +28,12 @@ Following are the objectives of ABR Counterfeit Detection System.
 ## Features
 ABR Counterfeit Detection System is developed using [`python`](https://www.python.org). It is built using the following 'python' modules/libraries.
 1. [opencv](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
-2. scikit-image
-3. pandas
-4. numpy
-5. matplotlib
-6. ipython
-7. ipykernel
+2. [scikit-image](https://scikit-image.org/docs/stable/)
+3. [pandas](https://pandas.pydata.org/docs/)
+4. [numpy](https://numpy.org/doc/stable/)
+5. [matplotlib](https://matplotlib.org/stable/tutorials/index)
+6. [ipython](https://ipython.org/documentation.html)
+7. [ipykernel](https://ipython.readthedocs.io/en/stable/install/kernel_install.html)
 8. [tkinter](https://docs.python.org/3/library/tk.html)
 9. [customtkinter](https://customtkinter.tomschimansky.com/)
 10. [pillow](https://pillow.readthedocs.io/en/stable/)
