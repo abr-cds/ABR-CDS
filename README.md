@@ -41,7 +41,7 @@ ABR Counterfeit Detection System is developed using [`python`](https://www.pytho
 
 ## Algorithm
 These algorithms are tested while making this system.
-![Algorithm](https://github.com/theranjitraut/abr-cds/blob/main/pixels/algorithm.jpg)
+![Algorithm](https://github.com/theranjitraut/abr-cds/blob/main/pixels/algorithm.png)
 
 ## Screenshots
 `ABR Counterfeit Detection System`
