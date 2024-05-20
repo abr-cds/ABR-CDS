@@ -37,7 +37,7 @@ ABR Counterfeit Detection System is developed using [`python`](https://www.pytho
 8. [tkinter](https://docs.python.org/3/library/tk.html)
 9. [customtkinter](https://customtkinter.tomschimansky.com/)
 10. [pillow](https://pillow.readthedocs.io/en/stable/)
-11. [Packaging in python:](https://packaging.python.org/en/latest/overview/) [PyInstaller](https://pyinstaller.org/en/stable/), [py2exe](https://www.py2exe.org/), [py2app](https://py2app.readthedocs.io/en/latest/), and [cx_Freeze](https://cx-freeze.readthedocs.io/en/stable/)
+11. [Packaging in python:](https://packaging.python.org/en/latest/overview/) [PyInstaller](https://pyinstaller.org/en/stable/), [py2exe](https://www.py2exe.org/), [py2app](https://py2app.readthedocs.io/en/latest/), [cx_Freeze](https://cx-freeze.readthedocs.io/en/stable/)
 
 ## Screenshots
 `ABR Counterfeit Detection System`
