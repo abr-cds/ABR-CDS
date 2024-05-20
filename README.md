@@ -48,10 +48,15 @@ These algorithms are tested while making this system.
 ![ABR-CDS v1.4.0](https://github.com/theranjitraut/abr-cds/blob/main/pixels/abr-cds-ui.png)
 
 ## Resources
-1. Python tutorial - https://docs.python.org/3/tutorial/index.html
-2. OpenCV tutorial - https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html
-3. tkinter tutorial - https://realpython.com/python-gui-tkinter
-4. customtkinter tutorial - https://customtkinter.tomschimansky.com/tutorial
+1. OpenCV Documentation - https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html
+2. Python Documentation - https://docs.python.org/3/tutorial/index.html
+3. Tkinter Documentation - https://realpython.com/python-gui-tkinter
+4. Customtkinter Documentation - https://customtkinter.tomschimansky.com/tutorial
+5. Scikit-learn Documentation - https://scikit-image.org/docs/stable
+6. Pandas Documentation - https://pandas.pydata.org/docs
+7. Numpy Documentation - https://numpy.org/doc/stable
+8. Matplotlib Documentation - https://matplotlib.org/stable/tutorials/index
+9. Ipython Documentation - https://ipython.org/documentation.html
 
 ## Project Timeline
 ![Project Timeline](https://github.com/theranjitraut/abr-cds/blob/main/pixels/project-timeline-ui.jpg)
