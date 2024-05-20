@@ -28,7 +28,7 @@ Following are the objectives of ABR Counterfeit Detection System.
 ## Features
 ABR Counterfeit Detection System is developed using [`python`](https://www.python.org). It is built using the following 'python' modules/libraries.
 1. [opencv](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
-2. skimage
+2. scikit-image
 3. pandas
 4. numpy
 5. matplotlib
